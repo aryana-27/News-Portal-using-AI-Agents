@@ -11,22 +11,6 @@ An intelligent news dashboard that provides real-time news updates, article summ
 - **Smart Question Generation**: Automatically generates relevant questions about articles
 - **Modern UI**: Beautiful and responsive user interface with horizontal scrolling news cards
 
-## Technologies Used
-
-- **Frontend**: Streamlit
-- **AI/ML**: 
-  - Groq for text generation
-  - Transformers for question generation
-  - Deep Translator for language translation
-- **News API**: Newspaper3k for article extraction
-- **NLP**: NLTK for text processing
-
-## Prerequisites
-
-- Python 3.8 or higher
-- Groq API key
-- News API key
-
 ## 🚀 Installation
 
 1. Clone the repository:
